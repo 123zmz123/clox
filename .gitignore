@@ -1,0 +1,11 @@
+
+clox/.vs/clox/v16/.suo
+clox/.vs/clox/v16/Server/sqlite3/db.lock
+clox/.vs/clox/v16/Server/sqlite3/storage.ide
+clox/.vs/clox/v16/Server/sqlite3/storage.ide-shm
+clox/.vs/clox/v16/Server/sqlite3/storage.ide-wal
+clox/obj/Debug/clox.csprojAssemblyReference.cache
+clox/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+.vs/
+packages/
+

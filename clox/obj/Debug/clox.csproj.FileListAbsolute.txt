@@ -1,0 +1,5 @@
+D:\iWork\vsprj\clox\clox\bin\Debug\clox.exe
+D:\iWork\vsprj\clox\clox\bin\Debug\clox.pdb
+D:\iWork\vsprj\clox\clox\obj\Debug\clox.csprojAssemblyReference.cache
+D:\iWork\vsprj\clox\clox\obj\Debug\clox.exe
+D:\iWork\vsprj\clox\clox\obj\Debug\clox.pdb
