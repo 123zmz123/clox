@@ -156,6 +156,7 @@ namespace clox
             return tokens;
         }
 
+        // this is the entry for scanner
         private void scanToken()
         {
             char c = advance();
